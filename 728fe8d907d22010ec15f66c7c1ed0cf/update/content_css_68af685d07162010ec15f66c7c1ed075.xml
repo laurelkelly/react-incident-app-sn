@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_css">
+    <content_css action="INSERT_OR_UPDATE">
+        <name>react-incident-css-bundle.css</name>
+        <style>ul{list-style-type:none;margin:0;padding:0}li{font:200 20px/2 Helvetica,Verdana,sans-serif;border-bottom:1px solid #ccc}li:last-child{border:none}li:hover{background:#f6f6f6}div{width:700px}h2{font:400 40px/1.5 Helvetica,Verdana,sans-serif;margin:0;padding:0}</style>
+        <sys_class_name>content_css</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-12 00:27:09</sys_created_on>
+        <sys_id>68af685d07162010ec15f66c7c1ed075</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>react-incident-css-bundle.css</sys_name>
+        <sys_package display_value="React Incidents" source="x_560781_react_inc">728fe8d907d22010ec15f66c7c1ed0cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="React Incidents">728fe8d907d22010ec15f66c7c1ed0cf</sys_scope>
+        <sys_update_name>content_css_68af685d07162010ec15f66c7c1ed075</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-12 00:27:09</sys_updated_on>
+        <type>local</type>
+        <url/>
+    </content_css>
+</record_update>
